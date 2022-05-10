@@ -3,5 +3,5 @@ scala control
 ```mermaid
 flowchart LR 
 
-A[Bookshelf-order Api] -->|CRUD| B(Bookshelf-order mongoDB)
+A[Bookshelf-order Api] -->|CRUD| id1[(Database)]
 ```
